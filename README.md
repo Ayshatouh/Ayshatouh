@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayshatouh
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Mobile Developmet
-- 💞️ I’m looking to collaborate on Codes related to Java and Android Applications
+- 👀 I am interested in Software Development
+- 🌱 I am currently a junior frontend developer.
+- 💞️ I am looking to collaborate on Codes related to React and Web Applications
 - 📫 How to reach me,simply contact me on my email address:aishakabir964@gmail.com
 
 <!---
